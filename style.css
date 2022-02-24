@@ -31,3 +31,7 @@ section{
     font-size: bold;
 
 }
+.bottam-banner{
+    background-image: url(images/dream-bg);
+    background-repeat: no-repeat;
+}
