@@ -1,5 +1,15 @@
-h1{
+body{
+    font-family: 'Poppins', sans-serif;
+}
+#name-highlight{
     color: brown;
-    background-color: blue;
-    text-align: center;
+}
+.half-width{
+  width: 40%;
+  float: left;
+  margin-left: 5%;
+  padding: 2%;
+}
+.half-width img{
+    width: 100%;
 }
